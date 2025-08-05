@@ -8,7 +8,7 @@ Download `Gnome Boxes` from the App Store.
 Download or install an OS using Gnome Boxes.
 
 # Setup Spice
-Spice is needed for resizing display resolutions.
+Spice is needed for resizing display resolutions.  You must install this into the VM that you created.
 
 [Windows SPICE Guest Tools](https://www.spice-space.org/download/windows/spice-guest-tools/spice-guest-tools-latest.exe)
 
